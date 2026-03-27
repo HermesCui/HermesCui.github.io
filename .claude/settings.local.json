@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL -o /dev/null -w \"%{http_code} %{url_effective}\" \"https://www.clustrmaps.com/map_v2.png?d=VlNA-MgT57rJjWFy3PE-tqyhFKWoC1Vj0e_gnu-jcGw&cl=ffffff\")"
+    ]
+  }
+}
