@@ -1,9 +1,7 @@
 cv:
   name: Chihan Cui
-  label: Ph.D. Student
   email: chihan.cui@wisc.edu
   location: Madison, WI
-  summary: Ph.D. student in Computer Science at UW-Madison, working on MLSys, efficient ML, and GPU communication.
 
   social_networks:
     - network: GitHub
