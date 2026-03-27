@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hermescui.github.io/sitemap.xml
+Sitemap: https://chihancui.com/sitemap.xml
