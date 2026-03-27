@@ -35,6 +35,13 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        <div style="margin-top:15px; font-size:0.9rem; line-height:2;">
+          <a href="mailto:chihan.cui@wisc.edu">Email</a> /
+          <a href="https://github.com/HermesCui" target="_blank">GitHub</a> /
+          <a href="https://www.linkedin.com/in/chihan-cui-741b121a9" target="_blank">LinkedIn</a> /
+          <a href="https://scholar.google.com/citations?user=vBvTi6wAAAAJ" target="_blank">Google Scholar</a> /
+          <a href="/cv/">CV</a>
+        </div>
       </div>
     {% endif %}
 
@@ -64,14 +71,6 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

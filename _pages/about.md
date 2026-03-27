@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Office 4625</p>
-    <p>Morgridge Institute for Research</p>
-    <p>330 N Orchard St</p>
-    <p>Madison, WI 53706</p>
+  more_info: false
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
