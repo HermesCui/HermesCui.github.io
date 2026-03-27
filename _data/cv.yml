@@ -3,7 +3,6 @@ cv:
   label: Ph.D. Student
   email: chihan.cui@wisc.edu
   location: Madison, WI
-  image: ""
   summary: Ph.D. student in Computer Science at UW-Madison, working on MLSys, efficient ML, and GPU communication.
 
   social_networks:
@@ -19,8 +18,8 @@ cv:
         url: https://www.wisc.edu/
         area: Computer Science
         studyType: Ph.D.
-        start_date: 2025
-        end_date: 2030 (Expected)
+        start_date: 2025-09
+        end_date: present
         highlights:
           - "Advisor: Ming Liu"
 
@@ -29,15 +28,14 @@ cv:
         url: https://www.utoronto.ca/
         area: Computer Science
         studyType: B.S.
-        start_date: 2021
-        end_date: 2025
+        start_date: 2021-09
+        end_date: 2025-03
         highlights:
           - "Advisors: Qizhen Zhang and Phil Bernstein"
 
     Experience:
       - company: UCCL-EP
         position: Portable expert-parallel communication library for MoE models (1200+ stars)
-        location: ""
         start_date: 2025-06
         end_date: 2025-12
         summary: "Supervisor: Yang Zhou"
@@ -46,7 +44,6 @@ cv:
 
       - company: dpBento
         position: Benchmarking framework for SmartNICs and DPUs
-        location: ""
         start_date: 2024-03
         end_date: 2024-09
         summary: "Supervisor: Qizhen Zhang & Philip A. Bernstein"
@@ -55,7 +52,6 @@ cv:
 
       - company: Distributed Transaction Protocols
         position: Retry policy analysis in Lotus framework
-        location: ""
         start_date: 2024-09
         end_date: 2025-02
         summary: "Supervisor: Dixin Tang"
@@ -64,9 +60,8 @@ cv:
 
       - company: Sirius
         position: GPU-accelerated SQL engine (800+ stars)
-        location: ""
         start_date: 2025-09
-        end_date: Present
+        end_date: present
         highlights:
           - "Built hybrid Top-N execution engine, achieving up to 6.12x end-to-end speedup on ClickBench."
 
@@ -75,14 +70,14 @@ cv:
         authors:
           - Ziming Mao, Yihan Zhang, Chihan Cui, et al.
         publisher: OSDI 2026
-        releaseDate: 2026
+        releaseDate: "2026"
         url: https://arxiv.org/abs/2512.19849
 
       - title: "dpBento: Benchmarking DPUs for Data Processing"
         authors:
           - Jiasheng Hu, Chihan Cui, Anna Li, et al.
         publisher: arXiv preprint arXiv:2504.05536
-        releaseDate: 2025
+        releaseDate: "2025"
         url: https://arxiv.org/abs/2504.05536
 
     Volunteer:

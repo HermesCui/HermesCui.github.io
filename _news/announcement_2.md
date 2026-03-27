@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Graduated with a B.S. in Computer Science from the University of Toronto (St. George Campus).
-

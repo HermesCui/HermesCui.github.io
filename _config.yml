@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Chihan
 last_name: Cui
 contact_note: >
-  welcome to my website! if you have any questions, please contact me at cuichihan@gmail.com/chihan.cui@wisc.edu.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- PhD Student in Computer Science at UW-Madison
+  PhD Student in Computer Science at UW-Madison
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

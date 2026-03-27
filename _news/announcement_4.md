@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Our paper [UCCL-EP: Portable Expert-Parallel Communication](https://arxiv.org/abs/2512.19849) has been accepted to OSDI 2026!
-

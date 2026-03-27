@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 [Sirius](https://github.com/sirius-db/sirius) achieved #1 on the ClickBench benchmark!
-
