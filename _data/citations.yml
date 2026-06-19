@@ -1,13 +1,13 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-06-19'
 papers:
   vBvTi6wAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'UEP: Portable Expert-Parallel Communication'
     year: Unknown Year
   vBvTi6wAAAAJ:9yKSN-GCB0IC:
-    citations: 0
-    title: Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models
+    citations: 3
+    title: Expert-choice routing enables adaptive computation in diffusion language models
     year: '2026'
   vBvTi6wAAAAJ:d1gkVwhDpl0C:
     citations: 1
