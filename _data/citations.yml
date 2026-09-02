@@ -1,19 +1,23 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-09-02'
 papers:
   vBvTi6wAAAAJ:2osOgNQ5qMEC:
     citations: 7
     title: 'UCCL-EP: Portable Expert-Parallel Communication'
     year: '2025'
   vBvTi6wAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 4
     title: Expert-choice routing enables adaptive computation in diffusion language models
+    year: '2026'
+  vBvTi6wAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: 'CommBench: Can LLMs Write Correct and Efficient GPU Communication Code?'
     year: '2026'
   vBvTi6wAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'B: Benchmarking DPUs for Data Processing'
     year: Unknown Year
   vBvTi6wAAAAJ:u5HHmVD_uO8C:
-    citations: 4
-    title: 'dpBento: Benchmarking DPUs for Data Processing'
+    citations: 5
+    title: 'dpbento: Benchmarking dpus for data processing'
     year: '2025'
